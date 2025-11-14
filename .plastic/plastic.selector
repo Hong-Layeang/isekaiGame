@@ -1,0 +1,4 @@
+repository "LowSpecIsekai/isekaiGame@18968337547696@cloud"
+  path "/"
+    br "/main"
+    co "/main"
